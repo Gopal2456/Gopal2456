@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopal2456" alt="gopal2456" /></a> </p>
 
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **gopalmahajan3392@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gopalmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopalmahajan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/gopal-mahajan-2b0638248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gopal-mahajan-2b0638248/" height="30" width="40" /></a>
 <a href="https://instagram.com/gopal.mjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopal.mjn" height="30" width="40" /></a>
 </p>
 
